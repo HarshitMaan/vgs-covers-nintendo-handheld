@@ -1,0 +1,49 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-nintendo-handheld",
+ "updated": "2026-11-22T09:12:53+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "3ds",
+   "path": "manifest/3ds.4ba98cbd.json",
+   "sha256": "4ba98cbdf621aee1198c1aac312a2716794e541406f6b4a1f065cb1a19351faa",
+   "games": 194
+  },
+  {
+   "platform": "gb",
+   "path": "manifest/gb.a9767f99.json",
+   "sha256": "a9767f99ad30aaaf5da7352f382d9d1ac859681b31b34af8bb3929fe5c987a08",
+   "games": 40
+  },
+  {
+   "platform": "gba",
+   "path": "manifest/gba.374faca8.json",
+   "sha256": "374faca8443e611c778e208d7988032ba2eb320aaf530f607ba9179aa8e49e9e",
+   "games": 623
+  },
+  {
+   "platform": "gbc",
+   "path": "manifest/gbc.5f683159.json",
+   "sha256": "5f683159b2c1331c76705158bb61e4814ab57a706f4ec2f8cda728cde76f9f3d",
+   "games": 160
+  },
+  {
+   "platform": "nds",
+   "path": "manifest/nds.81e705d9.json",
+   "sha256": "81e705d91f8be6f82e82fe563cebde67eb86f994c0df2120c2c2390498139b93",
+   "games": 557
+  },
+  {
+   "platform": "nintendo-pokemon-mini",
+   "path": "manifest/nintendo-pokemon-mini.9f1c36fe.json",
+   "sha256": "9f1c36fe5816c5b42724b031cb3941f2d989191e121b80cedee7d54939475735",
+   "games": 3
+  }
+ ]
+}
